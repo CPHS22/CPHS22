@@ -7,9 +7,10 @@
 
 ## Description
 
-Cyber-physical-human systems (CPHS) are the foundation of many emerging applications such as home assistance, healthcare and wellbeing, smart infrastructure, smart manufacturing, and human-robot interactions. As an advanced subclass of CPS and IoT systems, CPHS emphasizes constructing human-friendly environments/devices and helping humans to achieve their goals. Recent advance in AI has opened the possibility of scene and human behavior understanding to a new level. This human-centric view of CPHS significantly complicates system design and implementation, in terms of open behavior states, implicit human intent, dynamic device composition, as well as ethics, privacy, and security concerns.
+Cyber-physical-human systems (CPHS) are the foundation of many emerging applications such as home assistance, healthcare and wellbeing, smart infrastructure, smart manufacturing, and human-robot interactions. As an advanced subclass of CPS and IoT systems, CPHS emphasizes constructing human-friendly environments/devices and helping humans achieve their goals. Recent advance in AI has opened the possibility of scene and human behavior understanding to a new level. This human-centric view of CPHS significantly complicates system design and implementation in terms of open behavior states, implicit human intent, dynamic device composition, and ethics, privacy, and security concerns.
+This workshop brings together academic, industrial, and government researchers to exchange CPHS design and implementation challenges and latest research results. We solicit invited papers and open submissions. Both will be reviewed based on their research vision and academic contribution.
 
-This workshop intends to bring together academic, industrial, and government researchers to exchange CPHS design and implementation challenges and latest research results. We will solicit invited papers and open submissions. Both papers will be reviewed based on their research vision and academic contribution. We will also solicit posters for early work. 
+CPHS accepts double-blind paper submissions which have not been previously published. Posted technical reports (ArXiv or similar) do not count as prior publication and do not violate the double-blind requirement. Submitted manuscripts are up to 6 pages, including figures, tables, and references, following the ACM master article template. Papers are to be submitted at https://cphs22.github.io/CPHS22/. During the review process, the reviewers may anonymously communicate with the authors for clarifying questions.
 
 
 ## Topics of Interest
@@ -29,33 +30,32 @@ This workshop intends to bring together academic, industrial, and government res
 
 
 ## Technical Program Co-Chairs
-- **Jie Liu**, Harbin Institute of Technology (Shenzhen), China. [Web](https://scholar.google.com/citations?user=AJKK2ikAAAAJ&hl=zh-CN) 
-- **Rong Zheng**, Professor, McMaster University, Canada. [Web](http://www.cas.mcmaster.ca/~rzheng/)
-- **Tam Vu**, Oxford University, UK. [Web](https://www.cs.ox.ac.uk/people/tam.vu/)
+- **Wenyao Xu**, University at Buffalo, USA. [Web](https://cse.buffalo.edu/~wenyaoxu/)
+- **Jorge Ortiz**, Rutgers University, USA. [Web](http://rcgb.rutgers.edu/jorge-ortiz/)
+- **Zhijun Li**, Harbin Institute of Technology, China. Email: lizhijun_os@hit.edu.cn
 
 
-## Technical Program Committee (TBD)
-- **Dan Wang**, Hongkong Polytechnic University, China.
-- **Weitao Xu**, City University of Hongkong, China.
-- **Alberto Cerpa**, UC Merced, USA.
-- **Yuan He**, Tsinghua University, China.
-- **Wenlong Zhang**, Arizona State University, USA.
-- **Nicholas Lane**,  Cambridge University, UK.
-- **Bodhi Priyantha**, Microsoft Research, USA.
-- **Feng Jiang**, Harbin Institute of Technology, China.
-- **Guoliang Xing**, The Chinese University of Hong Kong, China.
-- **Junehwa Song**, Korea Advanced Institute of Science and Technology, Korea.
-- **Jorge Ortiz**, Rutgers University, USA.
+## Technical Program Committee
+- **Nic Lane**, University of Cambridge, UK.
+- **Hae Young Noh**, Stanford University, USA.
 - **Wenyao Xu**, University at Buffalo, USA.
 - **Mi Zhang**, Michigan State University, USA.
-- **Maria Gorlatova**, Duke Univesity, USA.
-- **Rasit Eskicioglu**, University of Manitoba, Canada.
-- **Hao Su**, City University of New York, USA.
+- **Jun Luo**, Nanyang Technological University, Singapore.
+- **Fred Xiang**, Columbia University, USA.
+- **Shijia Pan**, UC Merced, USA.
+- **Susu Xu**, Stony Brook University, USA.
+- **Gabe Fierro**, Colorado School of Mines, USA.
+- **Bharathan Balaji**, Amazon.
+- **Brad Campbell**, University of Virginia, USA.
+- **Jay Taneja**, University of Massachusetts Amherst, USA.
+- **Fadel Adib**, Massachusetts Institute of Technology, USA.
+- **Zhengxiong Li**, University of Colorado Denver, USA.
 
 
 ## Publication Chair
-- **Siyao Cheng**, Harbin Institute of Technology, China. Email: csy@hit.edu.cn.
+- **TBD**
 
   
-## Digital Support Chair 
-- **Chunzhi Yi**, Harbin Institute of Technology, China. Email: chunzhiyi@hit.edu.cn.
+## Digital Support Co-Chairs 
+- **Matthew Rubino**, University at Buffalo, USA. Email: mrrubino@buffalo.edu
+- **Huining Li**, University at Buffalo, USA. Email: huiningl@buffalo.edu
