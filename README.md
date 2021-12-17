@@ -26,6 +26,13 @@ CPHS accepts double-blind paper submissions which have not been previously publi
 - CPHS applications, prototypes, and experiences 
 
 
+## Important Dates
+The deadlines are as follows:
+ - Submission deadline: **2/7/2022**
+ - Acceptance notification: **3/5/2022**
+ - Final manuscripts: **3/31/2022**
+
+
 ## Program (TBD)
 
 
