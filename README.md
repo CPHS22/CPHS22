@@ -8,9 +8,8 @@
 ## Description
 
 Cyber-physical-human systems (CPHS) are the foundation of many emerging applications such as home assistance, healthcare and wellbeing, smart infrastructure, smart manufacturing, and human-robot interactions. As an advanced subclass of CPS and IoT systems, CPHS emphasizes constructing human-friendly environments/devices and helping humans achieve their goals. Recent advance in AI has opened the possibility of scene and human behavior understanding to a new level. This human-centric view of CPHS significantly complicates system design and implementation in terms of open behavior states, implicit human intent, dynamic device composition, and ethics, privacy, and security concerns.
-This workshop brings together academic, industrial, and government researchers to exchange CPHS design and implementation challenges and latest research results. We solicit invited papers and open submissions. Both will be reviewed based on their research vision and academic contribution.
 
-CPHS accepts double-blind paper submissions which have not been previously published. Posted technical reports (ArXiv or similar) do not count as prior publication and do not violate the double-blind requirement. Submitted manuscripts are up to 6 pages, including figures, tables, and references, following the IEEE standard article template. Papers are to be submitted at <https://cphs22.github.io/CPHS22/>. During the review process, the reviewers may anonymously communicate with the authors for clarifying questions.
+This workshop brings together academic, industrial, and government researchers to exchange CPHS design and implementation challenges and latest research results. We solicit invited papers and open submissions. Both will be reviewed based on their research vision and academic contribution.
 
 
 ## Topics of Interest
@@ -18,12 +17,19 @@ CPHS accepts double-blind paper submissions which have not been previously publi
 - Cognitive science foundation of human behavior and intent
 - Human intent prediction and behavior understanding
 - Scene understanding and human-robot/object interaction
-- Ethics, security, privacy and safety issues in CPHS
+- Ethics, security, privacy, and safety issues in CPHS
 - On-body, implantable, and ambient devices for CPHS
 - System architecture, network protocol, and services for CPHS
 - Modeling, programming, inferencing, interfacing, and testing CPHS
 - Data management, data quality, and machine learning
 - CPHS applications, prototypes, and experiences 
+
+
+## Submission Instructions
+
+CPHS accepts double-blind paper submissions which have not been previously published. Posted technical reports (ArXiv or similar) do not count as prior publication and do not violate the double-blind requirement. Submitted papers must contain at most 6 pages (US letter, 9pt font size, double-column format, following the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates.html)), including all figures, tables, and references. All submissions must be written in English and should contain the authors' names, affiliations, and contact information.
+
+Papers are to be submitted at <https://cphs22.github.io/CPHS22/>. During the review process, the reviewers may anonymously communicate with the authors for clarifying questions.
 
 
 ## Important Dates
