@@ -49,20 +49,12 @@ The deadlines are as follows:
 
 
 ## Technical Program Committee
-- **Nic Lane**, University of Cambridge, UK.
-- **Hae Young Noh**, Stanford University, USA.
-- **Wenyao Xu**, University at Buffalo, USA.
 - **Mi Zhang**, Michigan State University, USA.
-- **Jun Luo**, Nanyang Technological University, Singapore.
-- **Fred Xiang**, Columbia University, USA.
 - **Shijia Pan**, UC Merced, USA.
-- **Susu Xu**, Stony Brook University, USA.
 - **Gabe Fierro**, Colorado School of Mines, USA.
-- **Bharathan Balaji**, Amazon.
 - **Brad Campbell**, University of Virginia, USA.
-- **Jay Taneja**, University of Massachusetts Amherst, USA.
-- **Fadel Adib**, Massachusetts Institute of Technology, USA.
 - **Zhengxiong Li**, University of Colorado Denver, USA.
+- **Feng Lin**, Zhejiang University, China.
 
 
 ## Publication Chair
