@@ -33,10 +33,10 @@ Papers are to be submitted at <https://cphs22.github.io/CPHS22/>. During the rev
 
 
 ## Important Dates
-The deadlines are as follows:
- - Submission deadline: **2/4/2022**
- - Acceptance notification: **3/4/2022**
- - Final manuscripts: **4/1/2022**
+ - Paper Submission Deadline: **February 4**, 2022
+ - Paper Notification: **February 28**, 2022
+ - Camera Ready: **March 7**, 2022
+ - Workshop: **May 3**, 2022
 
 
 ## Program (TBD)
