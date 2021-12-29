@@ -52,8 +52,9 @@ Papers are to be submitted at <https://cphs22.github.io/CPHS22/>. During the rev
 - **Mi Zhang**, Michigan State University, USA.
 - **Shijia Pan**, UC Merced, USA.
 - **Gabe Fierro**, Colorado School of Mines, USA.
-- **Brad Campbell**, University of Virginia, USA.
 - **Zhengxiong Li**, University of Colorado Denver, USA.
+- **Susu Xu**, Stony Brook University, USA.
+- **Brad Campbell**, University of Virginia, USA.
 - **Feng Lin**, Zhejiang University, China.
 
 
