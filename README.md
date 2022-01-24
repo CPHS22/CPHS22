@@ -29,7 +29,7 @@ This workshop brings together academic, industrial, and government researchers t
 
 CPHS accepts double-blind paper submissions which have not been previously published. Posted technical reports (ArXiv or similar) do not count as prior publication and do not violate the double-blind requirement. Submitted papers must contain at most 6 pages (US letter, 9pt font size, double-column format, following the [IEEE conference proceedings template](https://www.ieee.org/conferences/publishing/templates.html)), including all figures, tables, and references. All submissions must be written in English and should contain the authors' names, affiliations, and contact information.
 
-Papers are to be submitted at <https://cphs22.github.io/CPHS22/>. During the review process, the reviewers may anonymously communicate with the authors for clarifying questions.
+Papers are to be submitted at <https://easychair.org/conferences/?conf=cphs22>. During the review process, the reviewers may anonymously communicate with the authors for clarifying questions.
 
 
 ## Important Dates
