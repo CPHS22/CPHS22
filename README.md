@@ -11,6 +11,7 @@ Cyber-physical-human systems (CPHS) are the foundation of many emerging applicat
 
 This workshop brings together academic, industrial, and government researchers to exchange CPHS design and implementation challenges and latest research results. We solicit invited papers and open submissions. Both will be reviewed based on their research vision and academic contribution.
 
+Despite the best efforts of the whole organizing committee, the tail of the pandemic is preventing us from running CPS-IoT Week with an in-person component, as we planned originally. CPS-IoT Week will therefore run as a virtual event. Opting for this choice instead of a hybrid event was a tough decision where we had to strike a balance among several constraints. Detailed information, including registration options, will be available shortly on the website of CPS-IoT Week and of all its conferences and related events.
 
 ## Topics of Interest
 
