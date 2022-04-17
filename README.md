@@ -57,7 +57,7 @@ Papers are to be submitted at <https://easychair.org/conferences/?conf=cphs22>. 
 - **Susu Xu**, Stony Brook University, USA.
 - **Brad Campbell**, University of Virginia, USA.
 - **Feng Lin**, Zhejiang University, China.
-- **Fred Xiang**, Columbia University, USA.
+- **Fred Jiang**, Columbia University, USA.
 
 
 ## Publication Chair
