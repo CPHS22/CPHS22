@@ -63,6 +63,11 @@ Papers are to be submitted at <https://easychair.org/conferences/?conf=cphs22>. 
 ## Publication Chair
 - **TBD**
 
+## Zoom Chair
+- **Murtadha Aldeer**
+
+## Zoom Master
+- **Tahiya Chowdhury**
   
 ## Digital Support Co-Chairs 
 - **Matthew Rubino**, University at Buffalo, USA. Email: mrrubino@buffalo.edu
