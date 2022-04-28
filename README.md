@@ -40,8 +40,40 @@ Papers are to be submitted at <https://easychair.org/conferences/?conf=cphs22>. 
  - Workshop: **May 3**, 2022
 
 
-## Program (TBD)
+## Program
 
+## CPHS Opening
+8:30AM-8:45AM (EST)
+
+## Keynote
+8:45AM-9:45AM (EST)
+
+**Omer Inan** is the Linda J. and Mark C. Smith Chair in Bioscience and Bioengineering, Associate Professor of Electrical and Computer Engineering, and Adjunct Associate Professor of Biomedical Engineering at Georgia Tech. He received his BS, MS, and PhD in Electrical Engineering from Stanford in 2004, 2005, and 2009, respectively. From 2009-2013, he was the Chief Engineer at Countryman Associates, Inc., a professional audio manufacturer of miniature microphones and high-end audio products for Broadway theaters, theme parks, and broadcast networks. His research focuses on non-invasive physiological sensing and modulation for human health and performance, and is funded by DARPA, NSF, ONR, NIH, CDC, and industry. He has published more than 275 technical articles in peer-reviewed international journals and conferences, and has eleven issued patents. He has received several major awards for his research including the NSF CAREER award, the ONR Young Investigator award, and the IEEE Sensors Council Early Career award. He also received an Academy Award for Technical Achievement from The Academy of Motion Picture Arts and Sciences (The Oscars). He is an Elected Fellow of the American Institute for Medical and Biological Engineering (AIMBE). While at Stanford as an undergraduate, he was the school record holder and a three-time NCAA All-American in the discus throw.
+
+**Title:** ***Wearable Acoustic and Vibration Sensing and Machine Learning for Human Health and Performance***
+
+Recent advances in digital health technologies are enabling biomedical researchers to reframe health optimization and disease treatment in a patient-specific, personalized manner. This talk will focus on my group’s research in three areas of relevance to digital health: (1) cardiogenic vibration sensing and analytics; (2) musculoskeletal sensing with joint acoustic emissions and bioimpedance; and (3) non-invasive neuromodulation for stress. Our group has extensively studied the timings and characteristics of cardiogenic vibration signals such as the ballistocardiogram and seismocardiogram, and applied these signals for cuffless blood pressure measurement, heart failure monitoring, and human performance. We have also leveraged miniature contact microphones to measure the sounds emitted by joints, such as the knees, in the context of movement, and have examined how these acoustic characteristics are altered by musculoskeletal injuries and disorders (e.g., arthritis). Finally, we have developed non-pharmacological treatment paradigms for posttraumatic stress disorder (PTSD) based on non-invasive vagal nerve stimulation, and have performed extensively validation of this approach with collaborators in psychiatry and radiology. We envision that these technologies can all contribute to improving patient care with lower cost.
+
+### Break
+9:45AM-10:45AM (EST)
+
+## CPHS Session I
+10:45AM-11:45AM (EST)
+
+### Break
+11:45AM-12:00PM (EST)
+
+## CPHS Session II
+12:00PM-1:00PM (EST)
+
+### Break
+1:00PM-1:15PM (EST)
+
+## CPHS Session III
+1:15PM-1:45PM (EST)
+
+## Closing
+1:45PM-1:50PM (EST)
 
 ## Technical Program Co-Chairs
 - **Wenyao Xu**, University at Buffalo, USA. [Web](https://cse.buffalo.edu/~wenyaoxu/)
