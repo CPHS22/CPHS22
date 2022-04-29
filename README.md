@@ -86,12 +86,15 @@ Kazuki Oi, Yugo Nakamura, Yuki Matsuda, Manato Fujimoto and Keiichi Yasumoto
 **Topic: Wireless technologies for human-machine interaction**
 
 - **Fred Jiang** [[link](http://fredjiang.com/)]
+
 Dr. Xiaofan Jiang is an Associate Professor in the [Electrical Engineering Department](https://www.ee.columbia.edu/) at [Columbia University](https://www.columbia.edu/) and co-Chair of [Smart Cities Center]() in the [Data Science Institute](https://datascience.columbia.edu/research/centers/smart-cities/). I lead the [Columbia Intelligent and Connected Systems Lab](http://icsl.ee.columbia.edu/). I received my B.Sc. (2004), M.Sc. (2007), and Ph.D. (2010) in Computer Science, all from [UC Berkeley](https://www.berkeley.edu/). Before joining Columbia, I was Senior Staff Researcher at Intel Labs China. My research lies at the intersection of systems and data, with a focus on mobile and wearable systems, intelligent built environments, Internet of Things, and connected health. 
 
 - **Shijia Pan** [[link](https://www.pans-lab.com/)]
+
 Dr. Shijia Pan is an assistant professor in the [Computer Science and Engineering Department](https://engineering.ucmerced.edu/academics/CSE/computer-science-engineering). She received her Bachelor's degree in Computer Science and Technology from the University of Science and Technology of China (USTC) and her Ph.D. degree in Electrical and Computer Engineering at Carnegie Mellon University (CMU). Her research interests include cyber-physical systems, Internet-of-Things (IoT), and ubiquitous computing. She worked in multiple disciplines and focused on self-assessing and self-adaptive heterogeneous cyber-physical systems for accurate human information inference.
 
 - **Chenren Xu** [[link](https://soar.group/chenren/about-me/)]
+
 Prof. Chenren Xu is an Endowed Boya Young Fellow Associate Professor (with early tenure) in the School of Computer Science at Peking University (PKU) where he directs Software-hardware Orchestrated ARchitecture (SOAR) Lab, and enjoys inventing future mobile technologies with his students to bridge the gap between networking and transportation for improving high mobility data networking, e.g., world's first roadway retroreflective V2X prototype for scalable vehicular networking, and collaborative edge networking and computing systems for high-speed railways. He earned his Ph.D. from WINLAB, Rutgers University, and worked as postdoctoral fellow in Carnegie Mellon University and visiting scholars in AT&T Shannon Labs and Microsoft Research.
 
 ### Break
