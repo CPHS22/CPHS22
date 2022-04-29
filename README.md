@@ -136,10 +136,10 @@ Murtadha Aldeer, David Waterworth, Zawar Hussain, Tahiya Chowdhury, Christian Br
 - **TBD**
 
 ## Zoom Chair
-- **Murtadha Aldeer**
+- **Murtadha Aldeer**, Rutgers University, USA.
 
 ## Zoom Master
-- **Tahiya Chowdhury**
+- **Tahiya Chowdhury**, Rutgers University, USA.
   
 ## Digital Support Co-Chairs 
 - **Matthew Rubino**, University at Buffalo, USA. Email: mrrubino@buffalo.edu
