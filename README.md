@@ -59,6 +59,7 @@ Recent advances in digital health technologies are enabling biomedical researche
 
 ## CPHS Session I
 10:45AM-11:45AM (EST)
+
 12 minute presentation + 3 minute Q&A
 
 - **CROMOSim: A Deep Learning-based Cross-modality Inertial Measurement Simulator**
